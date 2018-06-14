@@ -9,7 +9,7 @@ title: Home
 
 ## GAP in general
 
-[GAP](http://www.gap-system.org/) Days are meetings where developers and users
+[GAP](https://www.gap-system.org/) Days are meetings where developers and users
 with GAP programming experience are invited to influence the future
 development of GAP. To streamline each meeting the organizers usually suggest a few
 main topics to work on during the week.
@@ -36,7 +36,7 @@ can be found on [the location page]({{ site.baseurl }}/location).
 If you have questions or suggestions, please contact the organizers:
 
 * [Mohamed Barakat](mailto:mohamed.barakat@uni-siegen.de)
-* [Max Horn](mailto:max.horn@math.uni-giessen.de)
+* [Max Horn](mailto:mhorn@math.jlug.de)
 
 ## Sponsors
 
@@ -44,4 +44,4 @@ This workshop is supported by [SFB-TRR 195](https://www.computeralgebra.de/sfb/)
 
 ## Previous GAP Days
 
-Please visit <http://gapdays.de/> for a list of all GAP days.
+Please visit <https://www.gapdays.de/> for a list of all GAP days.
