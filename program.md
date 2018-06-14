@@ -3,6 +3,7 @@ layout: page
 title: Program
 ---
 
+# TODO: this is the old program from last year, UPDATE IT
 
 ## Workshop
 * Start: Wednesday August 30th at 10 am
