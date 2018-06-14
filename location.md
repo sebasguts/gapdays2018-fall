@@ -13,7 +13,7 @@ Walter-Flex-Str. 3, <br>
 Room D-201.
 
 
-Please look [here](http://www.uni-siegen.de/fb6/fb6/anfahrt/index.html.en?lang=en) for directions.
+Please look [here](https://mohamed-barakat.github.io/contact/) for directions.
 
 <h3>Accommodation</h3>
 
