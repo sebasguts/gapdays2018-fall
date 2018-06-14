@@ -32,14 +32,14 @@ title: Program
   
   - 16:30: Stand-Up: todays results
 
+  - 19:00: Workshop dinner im Restaurant [Gianni & Giulia](https://trattoria-gianni-giulia.de)
+
 - Thursday:
   - 09:30: Stand-Up: Agenda for today
 
   - 12:00: *Lunch (in-house Mensa)*
   
   - 16:30: Stand-Up: todays results
-
-  - 19:00: Workshop dinner ????
 		 
 - Friday:
   - 09:30: Stand-Up: Agenda for today
