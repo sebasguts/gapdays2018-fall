@@ -7,6 +7,7 @@ If you want to test site on your own machine, first install Jekyll (as
 described on its website), then do this:
 ```
   git clone https://github.com/gapdays/gapdays2018-fall
+  cd gapdays2018-fall
   jekyll serve -w
 ```
 Now open a browser on http://localhost:4000/ to see a live preview
@@ -51,8 +52,5 @@ steps:
                 "photo": ../photo/john_doe.jpg
 
 
-3. Optionally, edit program.tex, run pdflatex on it, and add the resulting PDF. Or, if you don't want to use it, just remove both the .tex and .pdf
-
-
-
-Max Horn <max@quendi.de>, September 2015
+3. Optionally, edit program.tex, run pdflatex on it, and add the resulting
+  PDF. Or, if you don't want to use it, just remove both the .tex and .pdf
