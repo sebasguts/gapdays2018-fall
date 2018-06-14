@@ -15,6 +15,7 @@ title: Program
 
 We will have a stand-up every morning at 9:30am and every afternoon at 4:30pm to lay out
 the plans for the day and summarise the achievements respectively.
+The talks will usually take place after lunch. The titles will be announced in September.
 
 - **Monday**
   - 10:00: *Opening*
