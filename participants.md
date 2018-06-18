@@ -4,7 +4,8 @@ title: Participants
 ---
 
 <ol>
-{% for p in site.data.participants %}
+{% assign participant_list = site.data.participants | sort_natural:"name" %}
+{% for p in participant_list %}
   <li>
     <strong>{{ p.name }}</strong>
     {% if p.affiliation != null %} ({{ p.affiliation }}){% endif %}
