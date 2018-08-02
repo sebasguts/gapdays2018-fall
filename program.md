@@ -56,7 +56,7 @@ The following are some topics from past GAP days. If you'd like to
 revisit one of these, or some other subject, please contact the organizers.
 
 1. __Data structures in GAP__ (providing stacks, queues, hash sets, hash maps, ...; see also <https://github.com/gap-packages/datastructures>)
-2. __MatrixObj__ (continue work from the [previous GAP Days](http://gapdays.de/gapdays2017-spring/10_topic/))
+2. __MatrixObj__ (continue work from the [previous GAP Days](https://www.gapdays.de/gapdays2017-spring/10_topic/))
 3. __Documentation, Tutorials, Accessibility__ (talk about how to improve them, and ideally also actually do that)
 4. __Website__ (we probably need to a completely new one; can we hire somebody to do it? what is needed? etc.)
 x
