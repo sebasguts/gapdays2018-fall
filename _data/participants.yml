@@ -1,14 +1,35 @@
-- name: Mohamed Barakat
+- name: Alexander D. Rahm
+  affiliation: University of Luxembourg
+
+- name: Dmitrii Pasechnik
+  affiliation: Oxford University
+
+- name: Kamal Saleh
   affiliation: University of Siegen
 
-- name: Sebastian Gutsche
-  affiliation: University of Siegen
+- name: Manuel Delgado
+  affiliation: CMUP and Faculty of Sciences of The University of Porto
+
+- name: Markus Pfeiffer
+  affiliation: University of St Andrews
 
 - name: Max Horn
   affiliation: Justus Liebig University Giessen
 
-- name: Markus Pfeiffer
-  affiliation: University of St Andrews
+- name: Mohamed Barakat
+  affiliation: University of Siegen
+
+- name: Pascal Kattler
+  affiliation: Universität des Saarlandes
+
+- name: Sebastian Gutsche
+  affiliation: University of Siegen
+
+- name: Sebastian Posur
+  affiliation: University of Siegen
+
+- name: Thomas Breuer
+  affiliation: RWTH Aachen
 
 - name: Wilf Wilson
   affiliation: Martin Luther University of Halle-Wittenberg
